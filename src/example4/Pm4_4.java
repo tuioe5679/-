@@ -2,7 +2,7 @@ package example4;
 
 import java.util.Scanner;
 
-public class Pm4_4X {
+public class Pm4_4 {
 
 	public static void main(String[] args) {
 		Scanner stdin = new Scanner(System.in);
